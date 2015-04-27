@@ -1,0 +1,1 @@
+A shared library to provide the log util for C++ programs, it will send to trace to trace service, then we can display the trace via trace displayer
